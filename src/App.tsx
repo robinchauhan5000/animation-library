@@ -1,24 +1,58 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import "./App.css";
+import { Animate } from "./components/AnimatedComponent";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className='App'>
+      <Animate.ScaleIn>once</Animate.ScaleIn>
+      <Animate.FadeUp>two </Animate.FadeUp>
+      <Animate.FadeIn>three</Animate.FadeIn>
+      <Animate.FadeIn>jsddsdsdsdssddddddddddddddddddddddddddd</Animate.FadeIn>
+      <Animate.FadeIn>jsddsdsdsdssddddddddddddddddddddddddddd</Animate.FadeIn>
+      <Animate.FadeIn>jsddsdsdsdssddddddddddddddddddddddddddd</Animate.FadeIn>
+      <Animate.FadeIn>jsddsdsdsdssddddddddddddddddddddddddddd</Animate.FadeIn>
+      <Animate.FadeIn>jsddsdsdsdssddddddddddddddddddddddddddd</Animate.FadeIn>
+      <Animate.FadeIn>jsddsdsdsdssddddddddddddddddddddddddddd</Animate.FadeIn>
+      <Animate.FadeIn>jsddsdsdsdssddddddddddddddddddddddddddd</Animate.FadeIn>
+      <Animate.FadeIn>jsddsdsdsdssddddddddddddddddddddddddddd</Animate.FadeIn>
+      <Animate.FadeIn>jsddsdsdsdssddddddddddddddddddddddddddd</Animate.FadeIn>
+      <Animate.FadeIn>jsddsdsdsdssddddddddddddddddddddddddddd</Animate.FadeIn>
+      <Animate.FadeIn>jsddsdsdsdssddddddddddddddddddddddddddd</Animate.FadeIn>
+      <Animate.FadeIn>jsddsdsdsdssddddddddddddddddddddddddddd</Animate.FadeIn>
+      <Animate.FadeIn>jsddsdsdsdssddddddddddddddddddddddddddd</Animate.FadeIn>
+      <Animate.FadeIn>jsddsdsdsdssddddddddddddddddddddddddddd</Animate.FadeIn>
+      <Animate.FadeIn>jsddsdsdsdssddddddddddddddddddddddddddd</Animate.FadeIn>
+      <Animate.FadeIn>jsddsdsdsdssddddddddddddddddddddddddddd</Animate.FadeIn>
+      <Animate.FadeIn>jsddsdsdsdssddddddddddddddddddddddddddd</Animate.FadeIn>
+      <Animate.FadeIn>jsddsdsdsdssddddddddddddddddddddddddddd</Animate.FadeIn>
+      <Animate.FadeIn>jsddsdsdsdssddddddddddddddddddddddddddd</Animate.FadeIn>
+      <Animate.FadeIn>jsddsdsdsdssddddddddddddddddddddddddddd</Animate.FadeIn>
+      <Animate.FadeIn>jsddsdsdsdssddddddddddddddddddddddddddd</Animate.FadeIn>
+      <Animate.FadeIn>jsddsdsdsdssddddddddddddddddddddddddddd</Animate.FadeIn>
+      <Animate.FadeIn>jsddsdsdsdssddddddddddddddddddddddddddd</Animate.FadeIn>
+      <Animate.FadeIn>jsddsdsdsdssddddddddddddddddddddddddddd</Animate.FadeIn>
+      <Animate.FadeIn>jsddsdsdsdssddddddddddddddddddddddddddd</Animate.FadeIn>
+      <Animate.FadeIn>jsddsdsdsdssddddddddddddddddddddddddddd</Animate.FadeIn>
+      <Animate.FadeIn>jsddsdsdsdssddddddddddddddddddddddddddd</Animate.FadeIn>
+      <Animate.FadeIn>jsddsdsdsdssddddddddddddddddddddddddddd</Animate.FadeIn>
+      <Animate.FadeIn>jsddsdsdsdssddddddddddddddddddddddddddd</Animate.FadeIn>
+      <Animate.FadeIn>jsddsdsdsdssddddddddddddddddddddddddddd</Animate.FadeIn>
+      <Animate.FadeIn>jsddsdsdsdssddddddddddddddddddddddddddd</Animate.FadeIn>
+      <Animate.FadeIn>jsddsdsdsdssddddddddddddddddddddddddddd</Animate.FadeIn>
+      <Animate.FadeIn>jsddsdsdsdssddddddddddddddddddddddddddd</Animate.FadeIn>
+      <Animate.FadeIn>jsddsdsdsdssddddddddddddddddddddddddddd</Animate.FadeIn>
+      <Animate.FadeIn>jsddsdsdsdssddddddddddddddddddddddddddd</Animate.FadeIn>
+      <Animate.FadeIn>jsddsdsdsdssddddddddddddddddddddddddddd</Animate.FadeIn>
+      <Animate.FadeIn>jsddsdsdsdssddddddddddddddddddddddddddd</Animate.FadeIn>
+      <Animate.FadeIn>jsddsdsdsdssddddddddddddddddddddddddddd</Animate.FadeIn>
+      <Animate.FadeIn>jsddsdsdsdssddddddddddddddddddddddddddd</Animate.FadeIn>
+      <Animate.FadeIn>jsddsdsdsdssddddddddddddddddddddddddddd</Animate.FadeIn>
+      <Animate.FadeIn>jsddsdsdsdssddddddddddddddddddddddddddd</Animate.FadeIn>
+      <Animate.FadeIn>jsddsdsdsdssddddddddddddddddddddddddddd</Animate.FadeIn>
+      <Animate.FadeIn>jsddsdsdsdssddddddddddddddddddddddddddd</Animate.FadeIn>
+      <Animate.ScaleIn>2</Animate.ScaleIn>
+      <Animate.ScaleIn>1</Animate.ScaleIn>
     </div>
   );
 }
